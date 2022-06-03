@@ -99,14 +99,12 @@
     }
 }
 @media (min-width: 425px) and (max-width: 594px){
-
     .burger_menu.open{
         transform: translateX(59vw);
     }
 }
 
 @media (min-width: 320px) and (max-width: 424px){
-
     .burger_menu.open{
         transform: translateX(47vw);
     }
