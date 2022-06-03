@@ -1,4 +1,6 @@
-.list {
+.list,
+.burger_btn,
+.burger_menu {
   position: relative;
   z-index: -100;
 }
